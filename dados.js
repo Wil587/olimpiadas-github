@@ -13,5 +13,10 @@ let dados = [
         titulo: "Rebeca Andrade",
         descricao: "Rebeca Andrade é uma ginasta brasileira que brilhou nos Jogos Olímpicos de Tóquio 2020 e Paris 2024, conquistando diversas medalhas. Sua força, flexibilidade e carisma a tornaram um ícone do esporte brasileiro.",
         link: "https://pt.wikipedia.org/wiki/Rebeca_Andrade"
-    }
+    },
+    {
+    titulo: "Tatiane Weston-Webb",
+    descricao: "Tatiane Weston-Webb é uma surfista profissional havaiana-brasileira, conhecida por sua habilidade em ondas grandes e manobras poderosas. Representando o Brasil, ela conquistou diversos títulos importantes no circuito mundial de surfe e é considerada uma das principais atletas do esporte.",
+    link: "https://www.worldsurfleague.com/athletes/24105/tatiane-weston-webb"
+}
 ];
